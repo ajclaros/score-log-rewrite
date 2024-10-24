@@ -24,7 +24,7 @@ class BehaviorExtractor:
         string = ''
         in_full_log = False
         start_line = None
-        
+
         with open(file_path, 'r') as file:
             data = file.readlines()
 
@@ -40,7 +40,8 @@ class BehaviorExtractor:
             parts = line.split()
             behaviors.append([parts[0], parts[1], ' '.join(parts[2:])])
         df = pd.DataFrame(behaviors, columns=columns)
-        return self.apply_behavior_mappings(df)
+        return self.apply_behavior_mappings(df)#
+
 
     def extract_folder(self, folder_path, columns=['frame', 'time', 'action']):
         for folder in os.listdir(folder_path):
@@ -598,27 +599,6 @@ class BehaviorExtractor:
 
         return df
 
-    def extract_behaviors(self, file_path, columns=['frame', 'time', 'action']):
-        behaviors = []
-        string = ''
-        in_full_log = False
-        start_line = None
-        with open(file_path, 'r') as file:
-            data = file.readlines()
-
-            for i, line in enumerate(data):
-                if 'FULL\tLOG' in line:
-                    in_full_log = True
-                    start_line = i
-                    break
-        for line in data[start_line+4:]:
-            if '-' in line:
-                break
-            line = line.replace('either', '')
-            parts = line.split()
-            behaviors.append([parts[0], parts[1], ' '.join(parts[2:])])
-        df = pd.DataFrame(behaviors, columns=columns)
-        return self.apply_behavior_mappings(df)
 
     def get_classification_stats(self, group=None):
         """Calculate summary statistics for behavior classifications"""
