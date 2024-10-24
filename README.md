@@ -74,6 +74,36 @@ ext.export_transition_summary_stats('transition_stats_output')
 ## Data Format
 
 ### Input Files
+- Behavioral log files should be in TSV format
+- Required columns: frame, time, action
+- See example files in the repository for reference
+
+### Pre-processed Data Compatibility
+The tool can accommodate pre-processed CSV/TSV files if they follow this structure:
+![schema](schema.png)
+```
+cleaned_dfs/
+    ├── yellow/   # Experimental group 1
+    │   ├── logXCB1.tsv
+    │   ├── logXCB3.tsv
+    │   └── ...
+    └── blue/     # Experimental group 2
+        ├── logXCB1.tsv
+        ├── logXCB3.tsv
+        └── ...
+```
+
+Each TSV file must contain these columns:
+1. frame: Video frame number
+2. time: Timestamp (MM:SS.ss format)
+3. action: Standardized behavior name
+4. original_action: Raw behavior name
+5. classification: Behavior category (aggressive/aversive/reproductive)
+6. folder: Group name (yellow/blue)
+7. file: Source filename
+
+This format allows researchers to use their own pre-processing pipelines while maintaining compatibility with the analysis tools.
+### Input Files
 - Required columns: frame, time, action
 - See example files in the repository for reference
 
