@@ -1,0 +1,20 @@
+Behavior,Classification,ReplaceWith
+Quiver At Female,aggressive,Quiver ♀
+Frontal Display,aggressive,Frontal Display
+Chase Female,aggressive,Chase ♀
+Attack Yellow (Right),aggressive,Bite ♂
+Attack Female,aggressive,Attack ♀
+Chase Male,aggressive,Chase ♂
+Attack Male,aggressive,Atk ♂
+Blue Lateral Display (Left),aggressive,BLDL
+Quiver At Male,aggressive,Quiver♂
+Yellow Lateral Display (Right),aggressive,YLDR
+Attack Blue (Left),aggressive,Bite B
+
+Flee From Male,aversive,Flee ♂
+Flee From Female,aversive,Flee ♀
+
+Dig,reproductive,Dig
+Lead Swim,reproductive,Lead
+Pot Exit,reproductive,Pot
+Pot Entry,reproductive,Pot

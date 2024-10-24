@@ -1,0 +1,258 @@
+scorevideo	LOG
+File:	logXCB17_log.mat
+
+VIDEO	FILE	SET
+Videotype:	AVI
+Directory:	G:\Roya\NEW	XCB	cohort\
+Video	file	set:
+	XCB17	Blue	082917	1-113175
+Play	duration	(min):	62.875
+Frames/sec	of	files:	30
+No.	of	subjects:	2
+
+COMMAND	SET	AND	SETTINGS
+-------------------------------
+start	stop	subject	description
+-------------------------------
+A	0	attack	female
+C	0	chase	female
+D	0	yellow	lateral	display	(right)
+F	0	flee	from	female
+Q	0	quiver	at	female
+b	0	attack	blue	(left)
+d	0	blue	lateral	display	(left)
+e	0	pot	entry
+f	0	flee	from	male
+p	0	dig
+q	0	quiver	at	male
+r	0	frontal	display
+s	0	lead	swim
+x	0	pot	exit
+y	0	attack	yellow	(right)
+-------------------------------
+subject	1:	subject1
+subject	2:	subject2
+subj#:	0=either	1=subject1	2=subject2	3=both
+No.	of	simultaneous	behaviors:	one
+
+RAW	LOG
+------------------------------------------
+frame	time(min:sec)	command
+------------------------------------------
+54503	30:16.77	d
+55915	31:03.83	A
+56063	31:08.77	f
+57489	31:56.30	f
+57713	32:03.77	f
+58693	32:36.43	f
+58797	32:39.90	f
+60511	33:37.03	A
+60603	33:40.10	A
+61719	34:17.30	f
+61981	34:26.03	f
+62325	34:37.50	A
+62653	34:48.43	A
+62811	34:53.70	f
+63575	35:19.17	f
+64237	35:41.23	A
+65377	36:19.23	f
+65737	36:31.23	Q
+65821	36:34.03	C
+65929	36:37.63	f
+66335	36:51.17	f
+67865	37:42.17	A
+67979	37:45.97	A
+68407	38:00.23	Q
+69627	38:40.90	A
+70243	39:01.43	A
+71187	39:32.90	f
+71447	39:41.57	f
+71583	39:46.10	A
+71689	39:49.63	A
+72647	40:21.57	Q
+72761	40:25.37	Q
+72885	40:29.50	A
+72989	40:32.97	f
+73231	40:41.03	A
+73573	40:52.43	Q
+73725	40:57.50	A
+74369	41:18.97	Q
+74669	41:28.97	f
+74795	41:33.17	f
+75415	41:53.83	A
+75645	42:01.50	Q
+76075	42:15.83	A
+76689	42:36.30	A
+78757	43:45.23	f
+78925	43:50.83	f
+80825	44:54.17	f
+81033	45:01.10	A
+81873	45:29.10	Q
+82003	45:33.43	F
+82211	45:40.37	f
+83539	46:24.63	A
+83753	46:31.77	A
+83883	46:36.10	Q
+83919	46:37.30	s
+84695	47:03.17	A
+84793	47:06.43	A
+85097	47:16.57	A
+85365	47:25.50	A
+86455	48:01.83	f
+86575	48:05.83	f
+86827	48:14.23	Q
+87381	48:32.70	f
+88047	48:54.90	A
+88613	49:13.77	f
+89013	49:27.10	Q
+89109	49:30.30	s
+89257	49:35.23	f
+91397	50:46.57	A
+92875	51:35.83	f
+93193	51:46.43	f
+94385	52:26.17	f
+94465	52:28.83	A
+94881	52:42.70	f
+96413	53:33.77	Q
+96453	53:35.10	A
+96843	53:48.10	f
+97527	54:10.90	A
+98163	54:32.10	A
+98849	54:54.97	f
+99933	55:31.10	f
+101121	56:10.70	A
+102231	56:47.70	f
+102577	56:59.23	f
+104013	57:47.10	A
+104417	58:00.57	f
+105057	58:21.90	Q
+105115	58:23.83	A
+105221	58:27.37	C
+105391	58:33.03	C
+105549	58:38.30	f
+105919	58:50.63	A
+106357	59:05.23	A
+107011	59:27.03	Q
+107215	59:33.83	A
+107245	59:34.83	Q
+107305	59:36.83	A
+107329	59:37.63	A
+107837	59:54.57	A
+------------------------------------------
+
+FULL	LOG
+------------------------------------------
+frame	time(min:sec)	description	action	subject
+------------------------------------------
+54503	30:16.77	blue	lateral	display	(left)	either
+55915	31:03.83	attack	female	either
+56063	31:08.77	flee	from	male	either
+57489	31:56.30	flee	from	male	either
+57713	32:03.77	flee	from	male	either
+58693	32:36.43	flee	from	male	either
+58797	32:39.90	flee	from	male	either
+60511	33:37.03	attack	female	either
+60603	33:40.10	attack	female	either
+61719	34:17.30	flee	from	male	either
+61981	34:26.03	flee	from	male	either
+62325	34:37.50	attack	female	either
+62653	34:48.43	attack	female	either
+62811	34:53.70	flee	from	male	either
+63575	35:19.17	flee	from	male	either
+64237	35:41.23	attack	female	either
+65377	36:19.23	flee	from	male	either
+65737	36:31.23	quiver	at	female	either
+65821	36:34.03	chase	female	either
+65929	36:37.63	flee	from	male	either
+66335	36:51.17	flee	from	male	either
+67865	37:42.17	attack	female	either
+67979	37:45.97	attack	female	either
+68407	38:00.23	quiver	at	female	either
+69627	38:40.90	attack	female	either
+70243	39:01.43	attack	female	either
+71187	39:32.90	flee	from	male	either
+71447	39:41.57	flee	from	male	either
+71583	39:46.10	attack	female	either
+71689	39:49.63	attack	female	either
+72647	40:21.57	quiver	at	female	either
+72761	40:25.37	quiver	at	female	either
+72885	40:29.50	attack	female	either
+72989	40:32.97	flee	from	male	either
+73231	40:41.03	attack	female	either
+73573	40:52.43	quiver	at	female	either
+73725	40:57.50	attack	female	either
+74369	41:18.97	quiver	at	female	either
+74669	41:28.97	flee	from	male	either
+74795	41:33.17	flee	from	male	either
+75415	41:53.83	attack	female	either
+75645	42:01.50	quiver	at	female	either
+76075	42:15.83	attack	female	either
+76689	42:36.30	attack	female	either
+78757	43:45.23	flee	from	male	either
+78925	43:50.83	flee	from	male	either
+80825	44:54.17	flee	from	male	either
+81033	45:01.10	attack	female	either
+81873	45:29.10	quiver	at	female	either
+82003	45:33.43	flee	from	female	either
+82211	45:40.37	flee	from	male	either
+83539	46:24.63	attack	female	either
+83753	46:31.77	attack	female	either
+83883	46:36.10	quiver	at	female	either
+83919	46:37.30	lead	swim	either
+84695	47:03.17	attack	female	either
+84793	47:06.43	attack	female	either
+85097	47:16.57	attack	female	either
+85365	47:25.50	attack	female	either
+86455	48:01.83	flee	from	male	either
+86575	48:05.83	flee	from	male	either
+86827	48:14.23	quiver	at	female	either
+87381	48:32.70	flee	from	male	either
+88047	48:54.90	attack	female	either
+88613	49:13.77	flee	from	male	either
+89013	49:27.10	quiver	at	female	either
+89109	49:30.30	lead	swim	either
+89257	49:35.23	flee	from	male	either
+91397	50:46.57	attack	female	either
+92875	51:35.83	flee	from	male	either
+93193	51:46.43	flee	from	male	either
+94385	52:26.17	flee	from	male	either
+94465	52:28.83	attack	female	either
+94881	52:42.70	flee	from	male	either
+96413	53:33.77	quiver	at	female	either
+96453	53:35.10	attack	female	either
+96843	53:48.10	flee	from	male	either
+97527	54:10.90	attack	female	either
+98163	54:32.10	attack	female	either
+98849	54:54.97	flee	from	male	either
+99933	55:31.10	flee	from	male	either
+101121	56:10.70	attack	female	either
+102231	56:47.70	flee	from	male	either
+102577	56:59.23	flee	from	male	either
+104013	57:47.10	attack	female	either
+104417	58:00.57	flee	from	male	either
+105057	58:21.90	quiver	at	female	either
+105115	58:23.83	attack	female	either
+105221	58:27.37	chase	female	either
+105391	58:33.03	chase	female	either
+105549	58:38.30	flee	from	male	either
+105919	58:50.63	attack	female	either
+106357	59:05.23	attack	female	either
+107011	59:27.03	quiver	at	female	either
+107215	59:33.83	attack	female	either
+107245	59:34.83	quiver	at	female	either
+107305	59:36.83	attack	female	either
+107329	59:37.63	attack	female	either
+107837	59:54.57	attack	female	either
+------------------------------------------
+
+NOTES
+------------------------------------------
+------------------------------------------
+
+MARKS
+------------------------------------------
+frame	time(min:sec)	mark	name
+------------------------------------------
+	1	0:00.03	video	start
+113175	62:52.50	video	end
+------------------------------------------

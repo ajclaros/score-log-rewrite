@@ -1,0 +1,386 @@
+scorevideo	LOG
+File:	logXCB16_log.mat
+
+VIDEO	FILE	SET
+Videotype:	AVI
+Directory:	G:\Roya\NEW	XCB	cohort\
+Video	file	set:
+	XCB16	Yellow	082917	1-149235
+Play	duration	(min):	82.908
+Frames/sec	of	files:	30
+No.	of	subjects:	2
+
+COMMAND	SET	AND	SETTINGS
+-------------------------------
+start	stop	subject	description
+-------------------------------
+A	0	attack	female
+C	0	chase	female
+D	0	yellow	lateral	display	(right)
+F	0	flee	from	female
+Q	0	quiver	at	female
+b	0	attack	blue	(left)
+d	0	blue	lateral	display	(left)
+e	0	pot	entry
+f	0	flee	from	male
+p	0	dig
+q	0	quiver	at	male
+r	0	frontal	display
+s	0	lead	swim
+x	0	pot	exit
+y	0	attack	yellow	(right)
+-------------------------------
+subject	1:	subject1
+subject	2:	subject2
+subj#:	0=either	1=subject1	2=subject2	3=both
+No.	of	simultaneous	behaviors:	one
+
+RAW	LOG
+------------------------------------------
+frame	time(min:sec)	command
+------------------------------------------
+56909	31:36.97	C
+57493	31:56.43	A
+57659	32:01.97	A
+57843	32:08.10	A
+58317	32:23.90	C
+58395	32:26.50	Q
+58601	32:33.37	A
+58631	32:34.37	A
+58725	32:37.50	A
+58749	32:38.30	Q
+60603	33:40.10	A
+60661	33:42.03	A
+60925	33:50.83	C
+61011	33:53.70	A
+61625	34:14.17	A
+61929	34:24.30	d
+62015	34:27.17	A
+62107	34:30.23	b
+62147	34:31.57	b
+62175	34:32.50	d
+63401	35:13.37	A
+64681	35:56.03	A
+64891	36:03.03	A
+64929	36:04.30	A
+65059	36:08.63	Q
+65227	36:14.23	A
+65907	36:36.90	A
+66375	36:52.50	d
+66711	37:03.70	d
+67017	37:13.90	b
+67465	37:28.83	A
+68201	37:53.37	d
+68547	38:04.90	C
+68831	38:14.37	A
+68881	38:16.03	A
+69543	38:38.10	A
+69899	38:49.97	A
+69931	38:51.03	Q
+69983	38:52.77	A
+70397	39:06.57	A
+70441	39:08.03	Q
+70467	39:08.90	C
+70529	39:10.97	A
+71079	39:29.30	A
+71161	39:32.03	b
+72361	40:12.03	A
+72931	40:31.03	A
+72959	40:31.97	A
+73907	41:03.57	Q
+74145	41:11.50	D
+74247	41:14.90	A
+74459	41:21.97	A
+74571	41:25.70	A
+74597	41:26.57	C
+74691	41:29.70	A
+74749	41:31.63	C
+75051	41:41.70	A
+75191	41:46.37	C
+75413	41:53.77	A
+75637	42:01.23	s
+75775	42:05.83	A
+75881	42:09.37	A
+75921	42:10.70	A
+76107	42:16.90	C
+76289	42:22.97	A
+76537	42:31.23	s
+76779	42:39.30	A
+77435	43:01.17	b
+78049	43:21.63	Q
+78587	43:39.57	A
+78685	43:42.83	A
+78727	43:44.23	C
+78789	43:46.30	A
+78881	43:49.37	A
+78929	43:50.97	A
+78977	43:52.57	C
+79091	43:56.37	A
+79193	43:59.77	C
+79335	44:04.50	A
+80207	44:33.57	Q
+80419	44:40.63	A
+80617	44:47.23	A
+80687	44:49.57	Q
+80941	44:58.03	C
+81759	45:25.30	Q
+81811	45:27.03	s
+81847	45:28.23	A
+81909	45:30.30	A
+82069	45:35.63	A
+82553	45:51.77	C
+82619	45:53.97	A
+82667	45:55.57	A
+82981	46:06.03	A
+83067	46:08.90	Q
+83105	46:10.17	y
+84545	46:58.17	Q
+84589	46:59.63	A
+84647	47:01.57	C
+85675	47:35.83	A
+85787	47:39.57	A
+85831	47:41.03	A
+86171	47:52.37	C
+86801	48:13.37	Q
+86843	48:14.77	e
+86861	48:15.37	x
+86969	48:18.97	C
+87085	48:22.83	A
+87319	48:30.63	s
+87389	48:32.97	A
+87533	48:37.77	Q
+87571	48:39.03	C
+87785	48:46.17	A
+87979	48:52.63	C
+88083	48:56.10	A
+88129	48:57.63	C
+88373	49:05.77	A
+88673	49:15.77	Q
+88703	49:16.77	A
+88725	49:17.50	C
+88821	49:20.70	A
+88893	49:23.10	C
+88943	49:24.77	A
+89453	49:41.77	A
+89763	49:52.10	C
+90293	50:09.77	A
+90683	50:22.77	Q
+90773	50:25.77	Q
+90891	50:29.70	A
+91351	50:45.03	C
+91427	50:47.57	A
+91591	50:53.03	Q
+92131	51:11.03	C
+92355	51:18.50	A
+93297	51:49.90	Q
+94073	52:15.77	d
+94113	52:17.10	A
+94399	52:26.63	A
+94653	52:35.10	A
+97357	54:05.23	A
+98197	54:33.23	A
+98543	54:44.77	Q
+98633	54:47.77	A
+98981	54:59.37	C
+99037	55:01.23	d
+99421	55:14.03	b
+99565	55:18.83	s
+99607	55:20.23	e
+99679	55:22.63	x
+100309	55:43.63	A
+100947	56:04.90	C
+101579	56:25.97	Q
+101767	56:32.23	s
+101995	56:39.83	C
+102739	57:04.63	A
+103589	57:32.97	A
+103997	57:46.57	C
+104191	57:53.03	C
+106465	59:08.83	C
+106507	59:10.23	A
+107165	59:32.17	A
+107449	59:41.63	A
+107475	59:42.50	A
+107757	59:51.90	A
+------------------------------------------
+
+FULL	LOG
+------------------------------------------
+frame	time(min:sec)	description	action	subject
+------------------------------------------
+56909	31:36.97	chase	female	either
+57493	31:56.43	attack	female	either
+57659	32:01.97	attack	female	either
+57843	32:08.10	attack	female	either
+58317	32:23.90	chase	female	either
+58395	32:26.50	quiver	at	female	either
+58601	32:33.37	attack	female	either
+58631	32:34.37	attack	female	either
+58725	32:37.50	attack	female	either
+58749	32:38.30	quiver	at	female	either
+60603	33:40.10	attack	female	either
+60661	33:42.03	attack	female	either
+60925	33:50.83	chase	female	either
+61011	33:53.70	attack	female	either
+61625	34:14.17	attack	female	either
+61929	34:24.30	blue	lateral	display	(left)	either
+62015	34:27.17	attack	female	either
+62107	34:30.23	attack	blue	(left)	either
+62147	34:31.57	attack	blue	(left)	either
+62175	34:32.50	blue	lateral	display	(left)	either
+63401	35:13.37	attack	female	either
+64681	35:56.03	attack	female	either
+64891	36:03.03	attack	female	either
+64929	36:04.30	attack	female	either
+65059	36:08.63	quiver	at	female	either
+65227	36:14.23	attack	female	either
+65907	36:36.90	attack	female	either
+66375	36:52.50	blue	lateral	display	(left)	either
+66711	37:03.70	blue	lateral	display	(left)	either
+67017	37:13.90	attack	blue	(left)	either
+67465	37:28.83	attack	female	either
+68201	37:53.37	blue	lateral	display	(left)	either
+68547	38:04.90	chase	female	either
+68831	38:14.37	attack	female	either
+68881	38:16.03	attack	female	either
+69543	38:38.10	attack	female	either
+69899	38:49.97	attack	female	either
+69931	38:51.03	quiver	at	female	either
+69983	38:52.77	attack	female	either
+70397	39:06.57	attack	female	either
+70441	39:08.03	quiver	at	female	either
+70467	39:08.90	chase	female	either
+70529	39:10.97	attack	female	either
+71079	39:29.30	attack	female	either
+71161	39:32.03	attack	blue	(left)	either
+72361	40:12.03	attack	female	either
+72931	40:31.03	attack	female	either
+72959	40:31.97	attack	female	either
+73907	41:03.57	quiver	at	female	either
+74145	41:11.50	yellow	lateral	display	(right)	either
+74247	41:14.90	attack	female	either
+74459	41:21.97	attack	female	either
+74571	41:25.70	attack	female	either
+74597	41:26.57	chase	female	either
+74691	41:29.70	attack	female	either
+74749	41:31.63	chase	female	either
+75051	41:41.70	attack	female	either
+75191	41:46.37	chase	female	either
+75413	41:53.77	attack	female	either
+75637	42:01.23	lead	swim	either
+75775	42:05.83	attack	female	either
+75881	42:09.37	attack	female	either
+75921	42:10.70	attack	female	either
+76107	42:16.90	chase	female	either
+76289	42:22.97	attack	female	either
+76537	42:31.23	lead	swim	either
+76779	42:39.30	attack	female	either
+77435	43:01.17	attack	blue	(left)	either
+78049	43:21.63	quiver	at	female	either
+78587	43:39.57	attack	female	either
+78685	43:42.83	attack	female	either
+78727	43:44.23	chase	female	either
+78789	43:46.30	attack	female	either
+78881	43:49.37	attack	female	either
+78929	43:50.97	attack	female	either
+78977	43:52.57	chase	female	either
+79091	43:56.37	attack	female	either
+79193	43:59.77	chase	female	either
+79335	44:04.50	attack	female	either
+80207	44:33.57	quiver	at	female	either
+80419	44:40.63	attack	female	either
+80617	44:47.23	attack	female	either
+80687	44:49.57	quiver	at	female	either
+80941	44:58.03	chase	female	either
+81759	45:25.30	quiver	at	female	either
+81811	45:27.03	lead	swim	either
+81847	45:28.23	attack	female	either
+81909	45:30.30	attack	female	either
+82069	45:35.63	attack	female	either
+82553	45:51.77	chase	female	either
+82619	45:53.97	attack	female	either
+82667	45:55.57	attack	female	either
+82981	46:06.03	attack	female	either
+83067	46:08.90	quiver	at	female	either
+83105	46:10.17	attack	yellow	(right)	either
+84545	46:58.17	quiver	at	female	either
+84589	46:59.63	attack	female	either
+84647	47:01.57	chase	female	either
+85675	47:35.83	attack	female	either
+85787	47:39.57	attack	female	either
+85831	47:41.03	attack	female	either
+86171	47:52.37	chase	female	either
+86801	48:13.37	quiver	at	female	either
+86843	48:14.77	pot	entry	either
+86861	48:15.37	pot	exit	either
+86969	48:18.97	chase	female	either
+87085	48:22.83	attack	female	either
+87319	48:30.63	lead	swim	either
+87389	48:32.97	attack	female	either
+87533	48:37.77	quiver	at	female	either
+87571	48:39.03	chase	female	either
+87785	48:46.17	attack	female	either
+87979	48:52.63	chase	female	either
+88083	48:56.10	attack	female	either
+88129	48:57.63	chase	female	either
+88373	49:05.77	attack	female	either
+88673	49:15.77	quiver	at	female	either
+88703	49:16.77	attack	female	either
+88725	49:17.50	chase	female	either
+88821	49:20.70	attack	female	either
+88893	49:23.10	chase	female	either
+88943	49:24.77	attack	female	either
+89453	49:41.77	attack	female	either
+89763	49:52.10	chase	female	either
+90293	50:09.77	attack	female	either
+90683	50:22.77	quiver	at	female	either
+90773	50:25.77	quiver	at	female	either
+90891	50:29.70	attack	female	either
+91351	50:45.03	chase	female	either
+91427	50:47.57	attack	female	either
+91591	50:53.03	quiver	at	female	either
+92131	51:11.03	chase	female	either
+92355	51:18.50	attack	female	either
+93297	51:49.90	quiver	at	female	either
+94073	52:15.77	blue	lateral	display	(left)	either
+94113	52:17.10	attack	female	either
+94399	52:26.63	attack	female	either
+94653	52:35.10	attack	female	either
+97357	54:05.23	attack	female	either
+98197	54:33.23	attack	female	either
+98543	54:44.77	quiver	at	female	either
+98633	54:47.77	attack	female	either
+98981	54:59.37	chase	female	either
+99037	55:01.23	blue	lateral	display	(left)	either
+99421	55:14.03	attack	blue	(left)	either
+99565	55:18.83	lead	swim	either
+99607	55:20.23	pot	entry	either
+99679	55:22.63	pot	exit	either
+100309	55:43.63	attack	female	either
+100947	56:04.90	chase	female	either
+101579	56:25.97	quiver	at	female	either
+101767	56:32.23	lead	swim	either
+101995	56:39.83	chase	female	either
+102739	57:04.63	attack	female	either
+103589	57:32.97	attack	female	either
+103997	57:46.57	chase	female	either
+104191	57:53.03	chase	female	either
+106465	59:08.83	chase	female	either
+106507	59:10.23	attack	female	either
+107165	59:32.17	attack	female	either
+107449	59:41.63	attack	female	either
+107475	59:42.50	attack	female	either
+107757	59:51.90	attack	female	either
+------------------------------------------
+
+NOTES
+------------------------------------------
+------------------------------------------
+
+MARKS
+------------------------------------------
+frame	time(min:sec)	mark	name
+------------------------------------------
+	1	0:00.03	video	start
+149235	82:54.50	video	end
+------------------------------------------

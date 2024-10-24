@@ -1,0 +1,1058 @@
+scorevideo	LOG
+File:	logXCB10_log.mat
+
+VIDEO	FILE	SET
+Videotype:	AVI
+Directory:	F:\Roya\NEW	XCB	cohort\
+Video	file	set:
+	XCB10	Yellow	082117	1-116730
+Play	duration	(min):	64.850
+Frames/sec	of	files:	30
+No.	of	subjects:	2
+
+COMMAND	SET	AND	SETTINGS
+-------------------------------
+start	stop	subject	description
+-------------------------------
+A	0	attack	female
+C	0	chase	female
+D	0	yellow	lateral	display	(right)
+F	0	flee	from	female
+Q	0	quiver	at	female
+b	0	attack	blue	(left)
+d	0	blue	lateral	display	(left)
+e	0	pot	entry
+f	0	flee	from	male
+p	0	dig
+q	0	quiver	at	male
+r	0	frontal	display
+s	0	lead	swim
+x	0	pot	exit
+y	0	attack	yellow	(right)
+-------------------------------
+subject	1:	subject1
+subject	2:	subject2
+subj#:	0=either	1=subject1	2=subject2	3=both
+No.	of	simultaneous	behaviors:	one
+
+RAW	LOG
+------------------------------------------
+frame	time(min:sec)	command
+------------------------------------------
+53929	29:57.63	x
+54059	30:01.97	b
+54125	30:04.17	b
+54203	30:06.77	d
+54303	30:10.10	y
+54571	30:19.03	b
+54619	30:20.63	d
+55109	30:36.97	b
+55589	30:52.97	Q
+55785	30:59.50	s
+55815	31:00.50	b
+55955	31:05.17	d
+56091	31:09.70	d
+56149	31:11.63	A
+56187	31:12.90	A
+56293	31:16.43	b
+56323	31:17.43	d
+56363	31:18.77	A
+56499	31:23.30	b
+56529	31:24.30	d
+56619	31:27.30	b
+56639	31:27.97	d
+56713	31:30.43	b
+56733	31:31.10	d
+56767	31:32.23	b
+56857	31:35.23	d
+56927	31:37.57	b
+56995	31:39.83	d
+57047	31:41.57	d
+57187	31:46.23	d
+57239	31:47.97	d
+57337	31:51.23	b
+57383	31:52.77	b
+57433	31:54.43	b
+57469	31:55.63	d
+57567	31:58.90	b
+57711	32:03.70	d
+57965	32:12.17	A
+58053	32:15.10	C
+58155	32:18.50	A
+58421	32:27.37	d
+58515	32:30.50	b
+58563	32:32.10	b
+58601	32:33.37	d
+58671	32:35.70	d
+58819	32:40.63	A
+58857	32:41.90	A
+59241	32:54.70	d
+59459	33:01.97	D
+59555	33:05.17	D
+59737	33:11.23	y
+59857	33:15.23	y
+59969	33:18.97	D
+60085	33:22.83	y
+60103	33:23.43	D
+60161	33:25.37	D
+60229	33:27.63	A
+60259	33:28.63	y
+60313	33:30.43	y
+60477	33:35.90	D
+60615	33:40.50	D
+60725	33:44.17	y
+60813	33:47.10	D
+60891	33:49.70	D
+60965	33:52.17	y
+61015	33:53.83	D
+61087	33:56.23	D
+61157	33:58.57	y
+61219	34:00.63	D
+61317	34:03.90	y
+61387	34:06.23	D
+61561	34:12.03	y
+61675	34:15.83	D
+61805	34:20.17	D
+61905	34:23.50	y
+61973	34:25.77	y
+62035	34:27.83	D
+62203	34:33.43	A
+62423	34:40.77	d
+62451	34:41.70	A
+62541	34:44.70	C
+62609	34:46.97	s
+62819	34:53.97	A
+62961	34:58.70	d
+63073	35:02.43	b
+63125	35:04.17	d
+63159	35:05.30	b
+63199	35:06.63	d
+63265	35:08.83	b
+63339	35:11.30	d
+63433	35:14.43	d
+63595	35:19.83	b
+63637	35:21.23	d
+63797	35:26.57	d
+63869	35:28.97	A
+64057	35:35.23	s
+64167	35:38.90	d
+64311	35:43.70	b
+64341	35:44.70	d
+64397	35:46.57	b
+64437	35:47.90	b
+64477	35:49.23	d
+64567	35:52.23	y
+64807	36:00.23	D
+64871	36:02.37	D
+64909	36:03.63	C
+64977	36:05.90	A
+65119	36:10.63	Q
+65229	36:14.30	Q
+65351	36:18.37	D
+65529	36:24.30	D
+65669	36:28.97	y
+65729	36:30.97	D
+65795	36:33.17	y
+65867	36:35.57	y
+65977	36:39.23	y
+66013	36:40.43	y
+66069	36:42.30	D
+66097	36:43.23	D
+66271	36:49.03	y
+66347	36:51.57	D
+66425	36:54.17	y
+66519	36:57.30	D
+66567	36:58.90	y
+66637	37:01.23	D
+66685	37:02.83	y
+66799	37:06.63	D
+66917	37:10.57	D
+66961	37:12.03	y
+67021	37:14.03	y
+67059	37:15.30	D
+67097	37:16.57	y
+67163	37:18.77	D
+67201	37:20.03	y
+67289	37:22.97	y
+67457	37:28.57	A
+67487	37:29.57	A
+67529	37:30.97	y
+67575	37:32.50	D
+67769	37:38.97	y
+67827	37:40.90	D
+67859	37:41.97	y
+67905	37:43.50	D
+67939	37:44.63	y
+68043	37:48.10	D
+68171	37:52.37	Q
+68459	38:01.97	d
+68527	38:04.23	A
+68547	38:04.90	d
+68639	38:07.97	d
+68767	38:12.23	d
+69239	38:27.97	d
+69557	38:38.57	d
+69771	38:45.70	s
+69891	38:49.70	D
+70137	38:57.90	d
+70225	39:00.83	d
+70289	39:02.97	b
+70331	39:04.37	b
+70369	39:05.63	d
+70489	39:09.63	d
+70565	39:12.17	b
+70595	39:13.17	b
+70633	39:14.43	d
+70793	39:19.77	d
+70921	39:24.03	d
+70985	39:26.17	b
+71017	39:27.23	d
+71149	39:31.63	b
+71291	39:36.37	s
+71297	39:36.57	s
+71357	39:38.57	d
+71467	39:42.23	b
+71543	39:44.77	d
+71629	39:47.63	d
+71719	39:50.63	A
+71785	39:52.83	Q
+72013	40:00.43	d
+72155	40:05.17	b
+72311	40:10.37	b
+72373	40:12.43	d
+72467	40:15.57	b
+72559	40:18.63	b
+72597	40:19.90	d
+72655	40:21.83	A
+72749	40:24.97	D
+72843	40:28.10	A
+73221	40:40.70	D
+73315	40:43.83	y
+73665	40:55.50	D
+74145	41:11.50	d
+74313	41:17.10	d
+74521	41:24.03	d
+74579	41:25.97	b
+74631	41:27.70	d
+74823	41:34.10	d
+74881	41:36.03	b
+74909	41:36.97	d
+75069	41:42.30	d
+75347	41:51.57	b
+75493	41:56.43	d
+75603	42:00.10	b
+75969	42:12.30	b
+76191	42:19.70	b
+76293	42:23.10	b
+76343	42:24.77	b
+76361	42:25.37	d
+76505	42:30.17	A
+76557	42:31.90	D
+76719	42:37.30	y
+76801	42:40.03	D
+76875	42:42.50	y
+76939	42:44.63	y
+77063	42:48.77	D
+77163	42:52.10	y
+77237	42:54.57	D
+77341	42:58.03	y
+77373	42:59.10	D
+77475	43:02.50	y
+77605	43:06.83	D
+77675	43:09.17	y
+77799	43:13.30	y
+77827	43:14.23	y
+77869	43:15.63	y
+77909	43:16.97	D
+77967	43:18.90	A
+78025	43:20.83	y
+78085	43:22.83	D
+78201	43:26.70	y
+78275	43:29.17	y
+78371	43:32.37	y
+78449	43:34.97	D
+78505	43:36.83	y
+78749	43:44.97	D
+78801	43:46.70	y
+78829	43:47.63	y
+78901	43:50.03	D
+79037	43:54.57	D
+79091	43:56.37	A
+79123	43:57.43	A
+79373	44:05.77	y
+79441	44:08.03	D
+79565	44:12.17	y
+79663	44:15.43	D
+79691	44:16.37	y
+79761	44:18.70	D
+79817	44:20.57	A
+79875	44:22.50	y
+79947	44:24.90	D
+80067	44:28.90	y
+80103	44:30.10	D
+80293	44:36.43	D
+80305	44:36.83	y
+80355	44:38.50	y
+80435	44:41.17	D
+80515	44:43.83	A
+80597	44:46.57	A
+80917	44:57.23	D
+81059	45:01.97	y
+81091	45:03.03	D
+81175	45:05.83	y
+81231	45:07.70	y
+81309	45:10.30	D
+81357	45:11.90	y
+81397	45:13.23	y
+81487	45:16.23	y
+81497	45:16.57	D
+81581	45:19.37	Q
+81721	45:24.03	d
+81953	45:31.77	d
+82099	45:36.63	d
+82225	45:40.83	d
+82315	45:43.83	b
+82407	45:46.90	b
+82481	45:49.37	d
+82653	45:55.10	d
+82665	45:55.50	b
+82713	45:57.10	d
+82795	45:59.83	b
+82821	46:00.70	d
+82963	46:05.43	d
+83241	46:14.70	b
+83301	46:16.70	d
+83501	46:23.37	b
+83567	46:25.57	d
+83649	46:28.30	b
+83733	46:31.10	A
+83811	46:33.70	C
+83851	46:35.03	b
+83893	46:36.43	d
+83971	46:39.03	b
+84313	46:50.43	d
+84403	46:53.43	s
+84579	46:59.30	d
+85041	47:14.70	b
+85221	47:20.70	b
+85221	47:20.70	b
+85783	47:39.43	d
+86173	47:52.43	d
+86343	47:58.10	y
+86407	48:00.23	D
+86887	48:16.23	D
+86939	48:17.97	C
+87011	48:20.37	Q
+87179	48:25.97	D
+87295	48:29.83	y
+87409	48:33.63	D
+87455	48:35.17	A
+87673	48:42.43	D
+87797	48:46.57	y
+87841	48:48.03	D
+87989	48:52.97	y
+88135	48:57.83	D
+88225	49:00.83	y
+88303	49:03.43	y
+88381	49:06.03	D
+88537	49:11.23	d
+88597	49:13.23	A
+88753	49:18.43	d
+88973	49:25.77	D
+89061	49:28.70	y
+89107	49:30.23	y
+89149	49:31.63	D
+89471	49:42.37	d
+89615	49:47.17	b
+89701	49:50.03	d
+89869	49:55.63	b
+89895	49:56.50	d
+90209	50:06.97	A
+90275	50:09.17	A
+90333	50:11.10	d
+90467	50:15.57	d
+90545	50:18.17	A
+90623	50:20.77	C
+90673	50:22.43	d
+91099	50:36.63	d
+91271	50:42.37	d
+91371	50:45.70	d
+91543	50:51.43	A
+91597	50:53.23	A
+91707	50:56.90	d
+91843	51:01.43	d
+92049	51:08.30	y
+92125	51:10.83	D
+92265	51:15.50	y
+92339	51:17.97	D
+92405	51:20.17	y
+92479	51:22.63	D
+92599	51:26.63	y
+92661	51:28.70	D
+92675	51:29.17	y
+92719	51:30.63	D
+92847	51:34.90	y
+92873	51:35.77	y
+92919	51:37.30	y
+92995	51:39.83	y
+93071	51:42.37	y
+93113	51:43.77	D
+93213	51:47.10	y
+93283	51:49.43	D
+93325	51:50.83	y
+93399	51:53.30	y
+93461	51:55.37	D
+93545	51:58.17	y
+93575	51:59.17	y
+93607	52:00.23	y
+93651	52:01.70	A
+93767	52:05.57	C
+93845	52:08.17	A
+94165	52:18.83	A
+94189	52:19.63	A
+94215	52:20.50	A
+94249	52:21.63	C
+94317	52:23.90	D
+94517	52:30.57	C
+95185	52:52.83	D
+95275	52:55.83	D
+95355	52:58.50	D
+95423	53:00.77	y
+95481	53:02.70	D
+95511	53:03.70	y
+95561	53:05.37	y
+95587	53:06.23	y
+95643	53:08.10	D
+95821	53:14.03	y
+95937	53:17.90	D
+95991	53:19.70	y
+96049	53:21.63	y
+96093	53:23.10	y
+96149	53:24.97	D
+96257	53:28.57	y
+96319	53:30.63	y
+96365	53:32.17	D
+96465	53:35.50	y
+96497	53:36.57	y
+96571	53:39.03	D
+96633	53:41.10	y
+96687	53:42.90	D
+96759	53:45.30	y
+96825	53:47.50	D
+96961	53:52.03	A
+97009	53:53.63	A
+97119	53:57.30	D
+97273	54:02.43	y
+97399	54:06.63	y
+97427	54:07.57	y
+97489	54:09.63	D
+97551	54:11.70	y
+97645	54:14.83	D
+97715	54:17.17	y
+97755	54:18.50	D
+97791	54:19.70	y
+97907	54:23.57	y
+97941	54:24.70	D
+97977	54:25.90	y
+98035	54:27.83	D
+98133	54:31.10	y
+98175	54:32.50	D
+98213	54:33.77	y
+98249	54:34.97	y
+98285	54:36.17	y
+98325	54:37.50	D
+99293	55:09.77	Q
+99931	55:31.03	Q
+99957	55:31.90	C
+100093	55:36.43	b
+100419	55:47.30	Q
+100597	55:53.23	Q
+100741	55:58.03	D
+100843	56:01.43	y
+100921	56:04.03	D
+100975	56:05.83	y
+101047	56:08.23	D
+101157	56:11.90	y
+101219	56:13.97	D
+101259	56:15.30	y
+101295	56:16.50	y
+101329	56:17.63	y
+101381	56:19.37	D
+101395	56:19.83	y
+101453	56:21.77	D
+101663	56:28.77	D
+101767	56:32.23	y
+101855	56:35.17	D
+101877	56:35.90	y
+101917	56:37.23	D
+101967	56:38.90	y
+102005	56:40.17	D
+102115	56:43.83	y
+102169	56:45.63	D
+102271	56:49.03	y
+102351	56:51.70	y
+102405	56:53.50	D
+102505	56:56.83	y
+102527	56:57.57	D
+102665	57:02.17	y
+102705	57:03.50	D
+102757	57:05.23	y
+102797	57:06.57	y
+102871	57:09.03	D
+103013	57:13.77	D
+103059	57:15.30	C
+103111	57:17.03	Q
+103273	57:22.43	A
+103309	57:23.63	y
+103351	57:25.03	D
+103387	57:26.23	y
+103425	57:27.50	y
+103461	57:28.70	y
+103493	57:29.77	D
+103615	57:33.83	C
+103723	57:37.43	y
+103765	57:38.83	D
+103903	57:43.43	D
+104013	57:47.10	y
+104185	57:52.83	D
+104391	57:59.70	y
+104433	58:01.10	D
+104503	58:03.43	y
+104561	58:05.37	y
+104591	58:06.37	D
+105361	58:32.03	A
+105485	58:36.17	d
+105555	58:38.50	C
+105929	58:50.97	C
+106095	58:56.50	Q
+106139	58:57.97	C
+106267	59:02.23	D
+106849	59:21.63	D
+107019	59:27.30	D
+107069	59:28.97	y
+107115	59:30.50	D
+107183	59:32.77	y
+107249	59:34.97	y
+107273	59:35.77	D
+107343	59:38.10	y
+107397	59:39.90	D
+107491	59:43.03	C
+107893	59:56.43	d
+------------------------------------------
+
+FULL	LOG
+------------------------------------------
+frame	time(min:sec)	description	action	subject
+------------------------------------------
+53929	29:57.63	pot	exit	either
+54059	30:01.97	attack	blue	(left)	either
+54125	30:04.17	attack	blue	(left)	either
+54203	30:06.77	blue	lateral	display	(left)	either
+54303	30:10.10	attack	yellow	(right)	either
+54571	30:19.03	attack	blue	(left)	either
+54619	30:20.63	blue	lateral	display	(left)	either
+55109	30:36.97	attack	blue	(left)	either
+55589	30:52.97	quiver	at	female	either
+55785	30:59.50	lead	swim	either
+55815	31:00.50	attack	blue	(left)	either
+55955	31:05.17	blue	lateral	display	(left)	either
+56091	31:09.70	blue	lateral	display	(left)	either
+56149	31:11.63	attack	female	either
+56187	31:12.90	attack	female	either
+56293	31:16.43	attack	blue	(left)	either
+56323	31:17.43	blue	lateral	display	(left)	either
+56363	31:18.77	attack	female	either
+56499	31:23.30	attack	blue	(left)	either
+56529	31:24.30	blue	lateral	display	(left)	either
+56619	31:27.30	attack	blue	(left)	either
+56639	31:27.97	blue	lateral	display	(left)	either
+56713	31:30.43	attack	blue	(left)	either
+56733	31:31.10	blue	lateral	display	(left)	either
+56767	31:32.23	attack	blue	(left)	either
+56857	31:35.23	blue	lateral	display	(left)	either
+56927	31:37.57	attack	blue	(left)	either
+56995	31:39.83	blue	lateral	display	(left)	either
+57047	31:41.57	blue	lateral	display	(left)	either
+57187	31:46.23	blue	lateral	display	(left)	either
+57239	31:47.97	blue	lateral	display	(left)	either
+57337	31:51.23	attack	blue	(left)	either
+57383	31:52.77	attack	blue	(left)	either
+57433	31:54.43	attack	blue	(left)	either
+57469	31:55.63	blue	lateral	display	(left)	either
+57567	31:58.90	attack	blue	(left)	either
+57711	32:03.70	blue	lateral	display	(left)	either
+57965	32:12.17	attack	female	either
+58053	32:15.10	chase	female	either
+58155	32:18.50	attack	female	either
+58421	32:27.37	blue	lateral	display	(left)	either
+58515	32:30.50	attack	blue	(left)	either
+58563	32:32.10	attack	blue	(left)	either
+58601	32:33.37	blue	lateral	display	(left)	either
+58671	32:35.70	blue	lateral	display	(left)	either
+58819	32:40.63	attack	female	either
+58857	32:41.90	attack	female	either
+59241	32:54.70	blue	lateral	display	(left)	either
+59459	33:01.97	yellow	lateral	display	(right)	either
+59555	33:05.17	yellow	lateral	display	(right)	either
+59737	33:11.23	attack	yellow	(right)	either
+59857	33:15.23	attack	yellow	(right)	either
+59969	33:18.97	yellow	lateral	display	(right)	either
+60085	33:22.83	attack	yellow	(right)	either
+60103	33:23.43	yellow	lateral	display	(right)	either
+60161	33:25.37	yellow	lateral	display	(right)	either
+60229	33:27.63	attack	female	either
+60259	33:28.63	attack	yellow	(right)	either
+60313	33:30.43	attack	yellow	(right)	either
+60477	33:35.90	yellow	lateral	display	(right)	either
+60615	33:40.50	yellow	lateral	display	(right)	either
+60725	33:44.17	attack	yellow	(right)	either
+60813	33:47.10	yellow	lateral	display	(right)	either
+60891	33:49.70	yellow	lateral	display	(right)	either
+60965	33:52.17	attack	yellow	(right)	either
+61015	33:53.83	yellow	lateral	display	(right)	either
+61087	33:56.23	yellow	lateral	display	(right)	either
+61157	33:58.57	attack	yellow	(right)	either
+61219	34:00.63	yellow	lateral	display	(right)	either
+61317	34:03.90	attack	yellow	(right)	either
+61387	34:06.23	yellow	lateral	display	(right)	either
+61561	34:12.03	attack	yellow	(right)	either
+61675	34:15.83	yellow	lateral	display	(right)	either
+61805	34:20.17	yellow	lateral	display	(right)	either
+61905	34:23.50	attack	yellow	(right)	either
+61973	34:25.77	attack	yellow	(right)	either
+62035	34:27.83	yellow	lateral	display	(right)	either
+62203	34:33.43	attack	female	either
+62423	34:40.77	blue	lateral	display	(left)	either
+62451	34:41.70	attack	female	either
+62541	34:44.70	chase	female	either
+62609	34:46.97	lead	swim	either
+62819	34:53.97	attack	female	either
+62961	34:58.70	blue	lateral	display	(left)	either
+63073	35:02.43	attack	blue	(left)	either
+63125	35:04.17	blue	lateral	display	(left)	either
+63159	35:05.30	attack	blue	(left)	either
+63199	35:06.63	blue	lateral	display	(left)	either
+63265	35:08.83	attack	blue	(left)	either
+63339	35:11.30	blue	lateral	display	(left)	either
+63433	35:14.43	blue	lateral	display	(left)	either
+63595	35:19.83	attack	blue	(left)	either
+63637	35:21.23	blue	lateral	display	(left)	either
+63797	35:26.57	blue	lateral	display	(left)	either
+63869	35:28.97	attack	female	either
+64057	35:35.23	lead	swim	either
+64167	35:38.90	blue	lateral	display	(left)	either
+64311	35:43.70	attack	blue	(left)	either
+64341	35:44.70	blue	lateral	display	(left)	either
+64397	35:46.57	attack	blue	(left)	either
+64437	35:47.90	attack	blue	(left)	either
+64477	35:49.23	blue	lateral	display	(left)	either
+64567	35:52.23	attack	yellow	(right)	either
+64807	36:00.23	yellow	lateral	display	(right)	either
+64871	36:02.37	yellow	lateral	display	(right)	either
+64909	36:03.63	chase	female	either
+64977	36:05.90	attack	female	either
+65119	36:10.63	quiver	at	female	either
+65229	36:14.30	quiver	at	female	either
+65351	36:18.37	yellow	lateral	display	(right)	either
+65529	36:24.30	yellow	lateral	display	(right)	either
+65669	36:28.97	attack	yellow	(right)	either
+65729	36:30.97	yellow	lateral	display	(right)	either
+65795	36:33.17	attack	yellow	(right)	either
+65867	36:35.57	attack	yellow	(right)	either
+65977	36:39.23	attack	yellow	(right)	either
+66013	36:40.43	attack	yellow	(right)	either
+66069	36:42.30	yellow	lateral	display	(right)	either
+66097	36:43.23	yellow	lateral	display	(right)	either
+66271	36:49.03	attack	yellow	(right)	either
+66347	36:51.57	yellow	lateral	display	(right)	either
+66425	36:54.17	attack	yellow	(right)	either
+66519	36:57.30	yellow	lateral	display	(right)	either
+66567	36:58.90	attack	yellow	(right)	either
+66637	37:01.23	yellow	lateral	display	(right)	either
+66685	37:02.83	attack	yellow	(right)	either
+66799	37:06.63	yellow	lateral	display	(right)	either
+66917	37:10.57	yellow	lateral	display	(right)	either
+66961	37:12.03	attack	yellow	(right)	either
+67021	37:14.03	attack	yellow	(right)	either
+67059	37:15.30	yellow	lateral	display	(right)	either
+67097	37:16.57	attack	yellow	(right)	either
+67163	37:18.77	yellow	lateral	display	(right)	either
+67201	37:20.03	attack	yellow	(right)	either
+67289	37:22.97	attack	yellow	(right)	either
+67457	37:28.57	attack	female	either
+67487	37:29.57	attack	female	either
+67529	37:30.97	attack	yellow	(right)	either
+67575	37:32.50	yellow	lateral	display	(right)	either
+67769	37:38.97	attack	yellow	(right)	either
+67827	37:40.90	yellow	lateral	display	(right)	either
+67859	37:41.97	attack	yellow	(right)	either
+67905	37:43.50	yellow	lateral	display	(right)	either
+67939	37:44.63	attack	yellow	(right)	either
+68043	37:48.10	yellow	lateral	display	(right)	either
+68171	37:52.37	quiver	at	female	either
+68459	38:01.97	blue	lateral	display	(left)	either
+68527	38:04.23	attack	female	either
+68547	38:04.90	blue	lateral	display	(left)	either
+68639	38:07.97	blue	lateral	display	(left)	either
+68767	38:12.23	blue	lateral	display	(left)	either
+69239	38:27.97	blue	lateral	display	(left)	either
+69557	38:38.57	blue	lateral	display	(left)	either
+69771	38:45.70	lead	swim	either
+69891	38:49.70	yellow	lateral	display	(right)	either
+70137	38:57.90	blue	lateral	display	(left)	either
+70225	39:00.83	blue	lateral	display	(left)	either
+70289	39:02.97	attack	blue	(left)	either
+70331	39:04.37	attack	blue	(left)	either
+70369	39:05.63	blue	lateral	display	(left)	either
+70489	39:09.63	blue	lateral	display	(left)	either
+70565	39:12.17	attack	blue	(left)	either
+70595	39:13.17	attack	blue	(left)	either
+70633	39:14.43	blue	lateral	display	(left)	either
+70793	39:19.77	blue	lateral	display	(left)	either
+70921	39:24.03	blue	lateral	display	(left)	either
+70985	39:26.17	attack	blue	(left)	either
+71017	39:27.23	blue	lateral	display	(left)	either
+71149	39:31.63	attack	blue	(left)	either
+71291	39:36.37	lead	swim	either
+71297	39:36.57	lead	swim	either
+71357	39:38.57	blue	lateral	display	(left)	either
+71467	39:42.23	attack	blue	(left)	either
+71543	39:44.77	blue	lateral	display	(left)	either
+71629	39:47.63	blue	lateral	display	(left)	either
+71719	39:50.63	attack	female	either
+71785	39:52.83	quiver	at	female	either
+72013	40:00.43	blue	lateral	display	(left)	either
+72155	40:05.17	attack	blue	(left)	either
+72311	40:10.37	attack	blue	(left)	either
+72373	40:12.43	blue	lateral	display	(left)	either
+72467	40:15.57	attack	blue	(left)	either
+72559	40:18.63	attack	blue	(left)	either
+72597	40:19.90	blue	lateral	display	(left)	either
+72655	40:21.83	attack	female	either
+72749	40:24.97	yellow	lateral	display	(right)	either
+72843	40:28.10	attack	female	either
+73221	40:40.70	yellow	lateral	display	(right)	either
+73315	40:43.83	attack	yellow	(right)	either
+73665	40:55.50	yellow	lateral	display	(right)	either
+74145	41:11.50	blue	lateral	display	(left)	either
+74313	41:17.10	blue	lateral	display	(left)	either
+74521	41:24.03	blue	lateral	display	(left)	either
+74579	41:25.97	attack	blue	(left)	either
+74631	41:27.70	blue	lateral	display	(left)	either
+74823	41:34.10	blue	lateral	display	(left)	either
+74881	41:36.03	attack	blue	(left)	either
+74909	41:36.97	blue	lateral	display	(left)	either
+75069	41:42.30	blue	lateral	display	(left)	either
+75347	41:51.57	attack	blue	(left)	either
+75493	41:56.43	blue	lateral	display	(left)	either
+75603	42:00.10	attack	blue	(left)	either
+75969	42:12.30	attack	blue	(left)	either
+76191	42:19.70	attack	blue	(left)	either
+76293	42:23.10	attack	blue	(left)	either
+76343	42:24.77	attack	blue	(left)	either
+76361	42:25.37	blue	lateral	display	(left)	either
+76505	42:30.17	attack	female	either
+76557	42:31.90	yellow	lateral	display	(right)	either
+76719	42:37.30	attack	yellow	(right)	either
+76801	42:40.03	yellow	lateral	display	(right)	either
+76875	42:42.50	attack	yellow	(right)	either
+76939	42:44.63	attack	yellow	(right)	either
+77063	42:48.77	yellow	lateral	display	(right)	either
+77163	42:52.10	attack	yellow	(right)	either
+77237	42:54.57	yellow	lateral	display	(right)	either
+77341	42:58.03	attack	yellow	(right)	either
+77373	42:59.10	yellow	lateral	display	(right)	either
+77475	43:02.50	attack	yellow	(right)	either
+77605	43:06.83	yellow	lateral	display	(right)	either
+77675	43:09.17	attack	yellow	(right)	either
+77799	43:13.30	attack	yellow	(right)	either
+77827	43:14.23	attack	yellow	(right)	either
+77869	43:15.63	attack	yellow	(right)	either
+77909	43:16.97	yellow	lateral	display	(right)	either
+77967	43:18.90	attack	female	either
+78025	43:20.83	attack	yellow	(right)	either
+78085	43:22.83	yellow	lateral	display	(right)	either
+78201	43:26.70	attack	yellow	(right)	either
+78275	43:29.17	attack	yellow	(right)	either
+78371	43:32.37	attack	yellow	(right)	either
+78449	43:34.97	yellow	lateral	display	(right)	either
+78505	43:36.83	attack	yellow	(right)	either
+78749	43:44.97	yellow	lateral	display	(right)	either
+78801	43:46.70	attack	yellow	(right)	either
+78829	43:47.63	attack	yellow	(right)	either
+78901	43:50.03	yellow	lateral	display	(right)	either
+79037	43:54.57	yellow	lateral	display	(right)	either
+79091	43:56.37	attack	female	either
+79123	43:57.43	attack	female	either
+79373	44:05.77	attack	yellow	(right)	either
+79441	44:08.03	yellow	lateral	display	(right)	either
+79565	44:12.17	attack	yellow	(right)	either
+79663	44:15.43	yellow	lateral	display	(right)	either
+79691	44:16.37	attack	yellow	(right)	either
+79761	44:18.70	yellow	lateral	display	(right)	either
+79817	44:20.57	attack	female	either
+79875	44:22.50	attack	yellow	(right)	either
+79947	44:24.90	yellow	lateral	display	(right)	either
+80067	44:28.90	attack	yellow	(right)	either
+80103	44:30.10	yellow	lateral	display	(right)	either
+80293	44:36.43	yellow	lateral	display	(right)	either
+80305	44:36.83	attack	yellow	(right)	either
+80355	44:38.50	attack	yellow	(right)	either
+80435	44:41.17	yellow	lateral	display	(right)	either
+80515	44:43.83	attack	female	either
+80597	44:46.57	attack	female	either
+80917	44:57.23	yellow	lateral	display	(right)	either
+81059	45:01.97	attack	yellow	(right)	either
+81091	45:03.03	yellow	lateral	display	(right)	either
+81175	45:05.83	attack	yellow	(right)	either
+81231	45:07.70	attack	yellow	(right)	either
+81309	45:10.30	yellow	lateral	display	(right)	either
+81357	45:11.90	attack	yellow	(right)	either
+81397	45:13.23	attack	yellow	(right)	either
+81487	45:16.23	attack	yellow	(right)	either
+81497	45:16.57	yellow	lateral	display	(right)	either
+81581	45:19.37	quiver	at	female	either
+81721	45:24.03	blue	lateral	display	(left)	either
+81953	45:31.77	blue	lateral	display	(left)	either
+82099	45:36.63	blue	lateral	display	(left)	either
+82225	45:40.83	blue	lateral	display	(left)	either
+82315	45:43.83	attack	blue	(left)	either
+82407	45:46.90	attack	blue	(left)	either
+82481	45:49.37	blue	lateral	display	(left)	either
+82653	45:55.10	blue	lateral	display	(left)	either
+82665	45:55.50	attack	blue	(left)	either
+82713	45:57.10	blue	lateral	display	(left)	either
+82795	45:59.83	attack	blue	(left)	either
+82821	46:00.70	blue	lateral	display	(left)	either
+82963	46:05.43	blue	lateral	display	(left)	either
+83241	46:14.70	attack	blue	(left)	either
+83301	46:16.70	blue	lateral	display	(left)	either
+83501	46:23.37	attack	blue	(left)	either
+83567	46:25.57	blue	lateral	display	(left)	either
+83649	46:28.30	attack	blue	(left)	either
+83733	46:31.10	attack	female	either
+83811	46:33.70	chase	female	either
+83851	46:35.03	attack	blue	(left)	either
+83893	46:36.43	blue	lateral	display	(left)	either
+83971	46:39.03	attack	blue	(left)	either
+84313	46:50.43	blue	lateral	display	(left)	either
+84403	46:53.43	lead	swim	either
+84579	46:59.30	blue	lateral	display	(left)	either
+85041	47:14.70	attack	blue	(left)	either
+85221	47:20.70	attack	blue	(left)	either
+85221	47:20.70	attack	blue	(left)	either
+85783	47:39.43	blue	lateral	display	(left)	either
+86173	47:52.43	blue	lateral	display	(left)	either
+86343	47:58.10	attack	yellow	(right)	either
+86407	48:00.23	yellow	lateral	display	(right)	either
+86887	48:16.23	yellow	lateral	display	(right)	either
+86939	48:17.97	chase	female	either
+87011	48:20.37	quiver	at	female	either
+87179	48:25.97	yellow	lateral	display	(right)	either
+87295	48:29.83	attack	yellow	(right)	either
+87409	48:33.63	yellow	lateral	display	(right)	either
+87455	48:35.17	attack	female	either
+87673	48:42.43	yellow	lateral	display	(right)	either
+87797	48:46.57	attack	yellow	(right)	either
+87841	48:48.03	yellow	lateral	display	(right)	either
+87989	48:52.97	attack	yellow	(right)	either
+88135	48:57.83	yellow	lateral	display	(right)	either
+88225	49:00.83	attack	yellow	(right)	either
+88303	49:03.43	attack	yellow	(right)	either
+88381	49:06.03	yellow	lateral	display	(right)	either
+88537	49:11.23	blue	lateral	display	(left)	either
+88597	49:13.23	attack	female	either
+88753	49:18.43	blue	lateral	display	(left)	either
+88973	49:25.77	yellow	lateral	display	(right)	either
+89061	49:28.70	attack	yellow	(right)	either
+89107	49:30.23	attack	yellow	(right)	either
+89149	49:31.63	yellow	lateral	display	(right)	either
+89471	49:42.37	blue	lateral	display	(left)	either
+89615	49:47.17	attack	blue	(left)	either
+89701	49:50.03	blue	lateral	display	(left)	either
+89869	49:55.63	attack	blue	(left)	either
+89895	49:56.50	blue	lateral	display	(left)	either
+90209	50:06.97	attack	female	either
+90275	50:09.17	attack	female	either
+90333	50:11.10	blue	lateral	display	(left)	either
+90467	50:15.57	blue	lateral	display	(left)	either
+90545	50:18.17	attack	female	either
+90623	50:20.77	chase	female	either
+90673	50:22.43	blue	lateral	display	(left)	either
+91099	50:36.63	blue	lateral	display	(left)	either
+91271	50:42.37	blue	lateral	display	(left)	either
+91371	50:45.70	blue	lateral	display	(left)	either
+91543	50:51.43	attack	female	either
+91597	50:53.23	attack	female	either
+91707	50:56.90	blue	lateral	display	(left)	either
+91843	51:01.43	blue	lateral	display	(left)	either
+92049	51:08.30	attack	yellow	(right)	either
+92125	51:10.83	yellow	lateral	display	(right)	either
+92265	51:15.50	attack	yellow	(right)	either
+92339	51:17.97	yellow	lateral	display	(right)	either
+92405	51:20.17	attack	yellow	(right)	either
+92479	51:22.63	yellow	lateral	display	(right)	either
+92599	51:26.63	attack	yellow	(right)	either
+92661	51:28.70	yellow	lateral	display	(right)	either
+92675	51:29.17	attack	yellow	(right)	either
+92719	51:30.63	yellow	lateral	display	(right)	either
+92847	51:34.90	attack	yellow	(right)	either
+92873	51:35.77	attack	yellow	(right)	either
+92919	51:37.30	attack	yellow	(right)	either
+92995	51:39.83	attack	yellow	(right)	either
+93071	51:42.37	attack	yellow	(right)	either
+93113	51:43.77	yellow	lateral	display	(right)	either
+93213	51:47.10	attack	yellow	(right)	either
+93283	51:49.43	yellow	lateral	display	(right)	either
+93325	51:50.83	attack	yellow	(right)	either
+93399	51:53.30	attack	yellow	(right)	either
+93461	51:55.37	yellow	lateral	display	(right)	either
+93545	51:58.17	attack	yellow	(right)	either
+93575	51:59.17	attack	yellow	(right)	either
+93607	52:00.23	attack	yellow	(right)	either
+93651	52:01.70	attack	female	either
+93767	52:05.57	chase	female	either
+93845	52:08.17	attack	female	either
+94165	52:18.83	attack	female	either
+94189	52:19.63	attack	female	either
+94215	52:20.50	attack	female	either
+94249	52:21.63	chase	female	either
+94317	52:23.90	yellow	lateral	display	(right)	either
+94517	52:30.57	chase	female	either
+95185	52:52.83	yellow	lateral	display	(right)	either
+95275	52:55.83	yellow	lateral	display	(right)	either
+95355	52:58.50	yellow	lateral	display	(right)	either
+95423	53:00.77	attack	yellow	(right)	either
+95481	53:02.70	yellow	lateral	display	(right)	either
+95511	53:03.70	attack	yellow	(right)	either
+95561	53:05.37	attack	yellow	(right)	either
+95587	53:06.23	attack	yellow	(right)	either
+95643	53:08.10	yellow	lateral	display	(right)	either
+95821	53:14.03	attack	yellow	(right)	either
+95937	53:17.90	yellow	lateral	display	(right)	either
+95991	53:19.70	attack	yellow	(right)	either
+96049	53:21.63	attack	yellow	(right)	either
+96093	53:23.10	attack	yellow	(right)	either
+96149	53:24.97	yellow	lateral	display	(right)	either
+96257	53:28.57	attack	yellow	(right)	either
+96319	53:30.63	attack	yellow	(right)	either
+96365	53:32.17	yellow	lateral	display	(right)	either
+96465	53:35.50	attack	yellow	(right)	either
+96497	53:36.57	attack	yellow	(right)	either
+96571	53:39.03	yellow	lateral	display	(right)	either
+96633	53:41.10	attack	yellow	(right)	either
+96687	53:42.90	yellow	lateral	display	(right)	either
+96759	53:45.30	attack	yellow	(right)	either
+96825	53:47.50	yellow	lateral	display	(right)	either
+96961	53:52.03	attack	female	either
+97009	53:53.63	attack	female	either
+97119	53:57.30	yellow	lateral	display	(right)	either
+97273	54:02.43	attack	yellow	(right)	either
+97399	54:06.63	attack	yellow	(right)	either
+97427	54:07.57	attack	yellow	(right)	either
+97489	54:09.63	yellow	lateral	display	(right)	either
+97551	54:11.70	attack	yellow	(right)	either
+97645	54:14.83	yellow	lateral	display	(right)	either
+97715	54:17.17	attack	yellow	(right)	either
+97755	54:18.50	yellow	lateral	display	(right)	either
+97791	54:19.70	attack	yellow	(right)	either
+97907	54:23.57	attack	yellow	(right)	either
+97941	54:24.70	yellow	lateral	display	(right)	either
+97977	54:25.90	attack	yellow	(right)	either
+98035	54:27.83	yellow	lateral	display	(right)	either
+98133	54:31.10	attack	yellow	(right)	either
+98175	54:32.50	yellow	lateral	display	(right)	either
+98213	54:33.77	attack	yellow	(right)	either
+98249	54:34.97	attack	yellow	(right)	either
+98285	54:36.17	attack	yellow	(right)	either
+98325	54:37.50	yellow	lateral	display	(right)	either
+99293	55:09.77	quiver	at	female	either
+99931	55:31.03	quiver	at	female	either
+99957	55:31.90	chase	female	either
+100093	55:36.43	attack	blue	(left)	either
+100419	55:47.30	quiver	at	female	either
+100597	55:53.23	quiver	at	female	either
+100741	55:58.03	yellow	lateral	display	(right)	either
+100843	56:01.43	attack	yellow	(right)	either
+100921	56:04.03	yellow	lateral	display	(right)	either
+100975	56:05.83	attack	yellow	(right)	either
+101047	56:08.23	yellow	lateral	display	(right)	either
+101157	56:11.90	attack	yellow	(right)	either
+101219	56:13.97	yellow	lateral	display	(right)	either
+101259	56:15.30	attack	yellow	(right)	either
+101295	56:16.50	attack	yellow	(right)	either
+101329	56:17.63	attack	yellow	(right)	either
+101381	56:19.37	yellow	lateral	display	(right)	either
+101395	56:19.83	attack	yellow	(right)	either
+101453	56:21.77	yellow	lateral	display	(right)	either
+101663	56:28.77	yellow	lateral	display	(right)	either
+101767	56:32.23	attack	yellow	(right)	either
+101855	56:35.17	yellow	lateral	display	(right)	either
+101877	56:35.90	attack	yellow	(right)	either
+101917	56:37.23	yellow	lateral	display	(right)	either
+101967	56:38.90	attack	yellow	(right)	either
+102005	56:40.17	yellow	lateral	display	(right)	either
+102115	56:43.83	attack	yellow	(right)	either
+102169	56:45.63	yellow	lateral	display	(right)	either
+102271	56:49.03	attack	yellow	(right)	either
+102351	56:51.70	attack	yellow	(right)	either
+102405	56:53.50	yellow	lateral	display	(right)	either
+102505	56:56.83	attack	yellow	(right)	either
+102527	56:57.57	yellow	lateral	display	(right)	either
+102665	57:02.17	attack	yellow	(right)	either
+102705	57:03.50	yellow	lateral	display	(right)	either
+102757	57:05.23	attack	yellow	(right)	either
+102797	57:06.57	attack	yellow	(right)	either
+102871	57:09.03	yellow	lateral	display	(right)	either
+103013	57:13.77	yellow	lateral	display	(right)	either
+103059	57:15.30	chase	female	either
+103111	57:17.03	quiver	at	female	either
+103273	57:22.43	attack	female	either
+103309	57:23.63	attack	yellow	(right)	either
+103351	57:25.03	yellow	lateral	display	(right)	either
+103387	57:26.23	attack	yellow	(right)	either
+103425	57:27.50	attack	yellow	(right)	either
+103461	57:28.70	attack	yellow	(right)	either
+103493	57:29.77	yellow	lateral	display	(right)	either
+103615	57:33.83	chase	female	either
+103723	57:37.43	attack	yellow	(right)	either
+103765	57:38.83	yellow	lateral	display	(right)	either
+103903	57:43.43	yellow	lateral	display	(right)	either
+104013	57:47.10	attack	yellow	(right)	either
+104185	57:52.83	yellow	lateral	display	(right)	either
+104391	57:59.70	attack	yellow	(right)	either
+104433	58:01.10	yellow	lateral	display	(right)	either
+104503	58:03.43	attack	yellow	(right)	either
+104561	58:05.37	attack	yellow	(right)	either
+104591	58:06.37	yellow	lateral	display	(right)	either
+105361	58:32.03	attack	female	either
+105485	58:36.17	blue	lateral	display	(left)	either
+105555	58:38.50	chase	female	either
+105929	58:50.97	chase	female	either
+106095	58:56.50	quiver	at	female	either
+106139	58:57.97	chase	female	either
+106267	59:02.23	yellow	lateral	display	(right)	either
+106849	59:21.63	yellow	lateral	display	(right)	either
+107019	59:27.30	yellow	lateral	display	(right)	either
+107069	59:28.97	attack	yellow	(right)	either
+107115	59:30.50	yellow	lateral	display	(right)	either
+107183	59:32.77	attack	yellow	(right)	either
+107249	59:34.97	attack	yellow	(right)	either
+107273	59:35.77	yellow	lateral	display	(right)	either
+107343	59:38.10	attack	yellow	(right)	either
+107397	59:39.90	yellow	lateral	display	(right)	either
+107491	59:43.03	chase	female	either
+107893	59:56.43	blue	lateral	display	(left)	either
+------------------------------------------
+
+NOTES
+------------------------------------------
+------------------------------------------
+
+MARKS
+------------------------------------------
+frame	time(min:sec)	mark	name
+------------------------------------------
+	1	0:00.03	video	start
+116730	64:51.00	video	end
+------------------------------------------

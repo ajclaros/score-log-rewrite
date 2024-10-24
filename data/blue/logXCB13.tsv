@@ -1,0 +1,180 @@
+scorevideo	LOG
+File:	logXCB13_log.mat
+
+VIDEO	FILE	SET
+Videotype:	AVI
+Directory:	G:\Roya\NEW	XCB	cohort\
+Video	file	set:
+	XCB13	Blue	082317	1-111285
+Play	duration	(min):	61.825
+Frames/sec	of	files:	30
+No.	of	subjects:	2
+
+COMMAND	SET	AND	SETTINGS
+-------------------------------
+start	stop	subject	description
+-------------------------------
+A	0	attack	female
+C	0	chase	female
+D	0	yellow	lateral	display	(right)
+F	0	flee	from	female
+Q	0	quiver	at	female
+b	0	attack	blue	(left)
+d	0	blue	lateral	display	(left)
+e	0	pot	entry
+f	0	flee	from	male
+p	0	dig
+q	0	quiver	at	male
+r	0	frontal	display
+s	0	lead	swim
+x	0	pot	exit
+y	0	attack	yellow	(right)
+-------------------------------
+subject	1:	subject1
+subject	2:	subject2
+subj#:	0=either	1=subject1	2=subject2	3=both
+No.	of	simultaneous	behaviors:	one
+
+RAW	LOG
+------------------------------------------
+frame	time(min:sec)	command
+------------------------------------------
+54087	30:02.90	A
+54633	30:21.10	d
+54775	30:25.83	d
+54891	30:29.70	d
+55121	30:37.37	d
+55425	30:47.50	d
+55787	30:59.57	b
+55831	31:01.03	d
+56623	31:27.43	d
+56909	31:36.97	d
+57117	31:43.90	A
+57181	31:46.03	C
+57289	31:49.63	D
+57555	31:58.50	D
+58125	32:17.50	d
+58223	32:20.77	d
+58703	32:36.77	Q
+58833	32:41.10	d
+58929	32:44.30	d
+59087	32:49.57	b
+59565	33:05.50	d
+60149	33:24.97	d
+61329	34:04.30	d
+61429	34:07.63	d
+63409	35:13.63	C
+63607	35:20.23	Q
+63665	35:22.17	A
+65237	36:14.57	d
+66337	36:51.23	A
+66409	36:53.63	A
+67595	37:33.17	s
+67949	37:44.97	A
+70291	39:03.03	A
+77817	43:13.90	A
+87051	48:21.70	A
+87089	48:22.97	e
+87173	48:25.77	x
+88285	49:02.83	e
+88319	49:03.97	x
+88369	49:05.63	d
+88611	49:13.70	d
+91445	50:48.17	D
+91553	50:51.77	D
+91665	50:55.50	y
+91747	50:58.23	D
+92127	51:10.90	d
+92417	51:20.57	D
+92523	51:24.10	D
+92589	51:26.30	D
+92899	51:36.63	D
+93267	51:48.90	D
+93313	51:50.43	y
+93415	51:53.83	D
+96825	53:47.50	A
+98225	54:34.17	d
+104903	58:16.77	F
+105641	58:41.37	e
+105699	58:43.30	x
+107497	59:43.23	e
+107573	59:45.77	x
+------------------------------------------
+
+FULL	LOG
+------------------------------------------
+frame	time(min:sec)	description	action	subject
+------------------------------------------
+54087	30:02.90	attack	female	either
+54633	30:21.10	blue	lateral	display	(left)	either
+54775	30:25.83	blue	lateral	display	(left)	either
+54891	30:29.70	blue	lateral	display	(left)	either
+55121	30:37.37	blue	lateral	display	(left)	either
+55425	30:47.50	blue	lateral	display	(left)	either
+55787	30:59.57	attack	blue	(left)	either
+55831	31:01.03	blue	lateral	display	(left)	either
+56623	31:27.43	blue	lateral	display	(left)	either
+56909	31:36.97	blue	lateral	display	(left)	either
+57117	31:43.90	attack	female	either
+57181	31:46.03	chase	female	either
+57289	31:49.63	yellow	lateral	display	(right)	either
+57555	31:58.50	yellow	lateral	display	(right)	either
+58125	32:17.50	blue	lateral	display	(left)	either
+58223	32:20.77	blue	lateral	display	(left)	either
+58703	32:36.77	quiver	at	female	either
+58833	32:41.10	blue	lateral	display	(left)	either
+58929	32:44.30	blue	lateral	display	(left)	either
+59087	32:49.57	attack	blue	(left)	either
+59565	33:05.50	blue	lateral	display	(left)	either
+60149	33:24.97	blue	lateral	display	(left)	either
+61329	34:04.30	blue	lateral	display	(left)	either
+61429	34:07.63	blue	lateral	display	(left)	either
+63409	35:13.63	chase	female	either
+63607	35:20.23	quiver	at	female	either
+63665	35:22.17	attack	female	either
+65237	36:14.57	blue	lateral	display	(left)	either
+66337	36:51.23	attack	female	either
+66409	36:53.63	attack	female	either
+67595	37:33.17	lead	swim	either
+67949	37:44.97	attack	female	either
+70291	39:03.03	attack	female	either
+77817	43:13.90	attack	female	either
+87051	48:21.70	attack	female	either
+87089	48:22.97	pot	entry	either
+87173	48:25.77	pot	exit	either
+88285	49:02.83	pot	entry	either
+88319	49:03.97	pot	exit	either
+88369	49:05.63	blue	lateral	display	(left)	either
+88611	49:13.70	blue	lateral	display	(left)	either
+91445	50:48.17	yellow	lateral	display	(right)	either
+91553	50:51.77	yellow	lateral	display	(right)	either
+91665	50:55.50	attack	yellow	(right)	either
+91747	50:58.23	yellow	lateral	display	(right)	either
+92127	51:10.90	blue	lateral	display	(left)	either
+92417	51:20.57	yellow	lateral	display	(right)	either
+92523	51:24.10	yellow	lateral	display	(right)	either
+92589	51:26.30	yellow	lateral	display	(right)	either
+92899	51:36.63	yellow	lateral	display	(right)	either
+93267	51:48.90	yellow	lateral	display	(right)	either
+93313	51:50.43	attack	yellow	(right)	either
+93415	51:53.83	yellow	lateral	display	(right)	either
+96825	53:47.50	attack	female	either
+98225	54:34.17	blue	lateral	display	(left)	either
+104903	58:16.77	flee	from	female	either
+105641	58:41.37	pot	entry	either
+105699	58:43.30	pot	exit	either
+107497	59:43.23	pot	entry	either
+107573	59:45.77	pot	exit	either
+------------------------------------------
+
+NOTES
+------------------------------------------
+------------------------------------------
+
+MARKS
+------------------------------------------
+frame	time(min:sec)	mark	name
+------------------------------------------
+	1	0:00.03	video	start
+111285	61:49.50	video	end
+------------------------------------------
