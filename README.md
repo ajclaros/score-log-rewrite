@@ -10,7 +10,6 @@ A Python-based tool for analyzing and visualizing behavioral patterns from exper
 - Create probability-based Markov chain visualizations
 - Analyze behavioral classifications
 - Export analysis results to CSV files
-- Generate publication-ready visualizations
 
 ## Installation
 
